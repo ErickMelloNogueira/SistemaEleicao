@@ -1,146 +1,67 @@
-\# SistemaEleicao
+# SistemaEleicao
 
+Sistema de eleição desenvolvido em C# com .NET 10, com cadastro e validação de candidatos, processo de votação e testes automatizados utilizando xUnit.
 
+## Funcionalidades
 
-Sistema de eleição desenvolvido em C# com .NET 10, utilizando uma aplicação de console e testes automatizados com xUnit.
+- Cadastro de candidatos.
+- Validação das regras de cadastro.
+- Sistema de votação.
+- Menu interativo no console.
+- Testes automatizados para verificar as regras de negócio.
 
+## Tecnologias utilizadas
 
+- C#
+- .NET 10
+- xUnit
+- Git e GitHub
 
-\## Funcionalidades
+## Pré-requisitos
 
+- .NET 10 SDK instalado.
+- Git instalado.
 
-
-\- Sistema de votação executado pelo terminal.
-
-\- Menu interativo para utilização das funcionalidades disponíveis.
-
-\- Entidade de candidato com regras de validação para cadastro.
-
-\- Testes automatizados para as regras de cadastro de candidatos.
-
-
-
-\## Tecnologias utilizadas
-
-
-
-\- C#
-
-\- .NET 10
-
-\- xUnit
-
-\- Git
-
-\- GitHub
-
-
-
-\## Estrutura do projeto
-
-
-
-```text
-
-Sistemaeleicao/
-
-├── SistemaEleicao.Console/
-
-│   └── Aplicação de console
-
-├── SistemaEleicao.Tests/
-
-│   └── Testes automatizados
-
-└── README.md
-
-```
-
-
-
-\## Pré-requisitos
-
-
-
-\- .NET 10 SDK instalado.
-
-\- Git instalado, caso deseje clonar e versionar o projeto.
-
-
-
-\## Como executar
-
-
+## Como executar
 
 Clone o repositório:
 
-
-
 ```bash
-
-git clone URL\_DO\_REPOSITORIO
-
+git clone https://github.com/ErickMelloNogueira/SistemaEleicao.git
 ```
-
-
 
 Entre na pasta do projeto:
 
-
-
 ```bash
-
-cd Sistemaeleicao
-
+cd SistemaEleicao
 ```
-
-
 
 Execute a aplicação:
 
-
-
 ```bash
-
 dotnet run --project ./SistemaEleicao.Console/
-
 ```
 
-
-
-\## Como executar os testes
-
-
+## Como executar os testes
 
 Na pasta raiz do projeto, execute:
 
-
-
 ```bash
-
 dotnet test
-
 ```
 
+Os testes automatizados verificam as regras de validação implementadas no sistema.
 
+## Estrutura do projeto
 
-Os testes automatizados utilizam xUnit.
+```text
+SistemaEleicao/
+├── SistemaEleicao.Console/
+├── SistemaEleicao.Tests/
+├── README.md
+└── LICENSE
+```
 
+## Licença
 
-
-\## Status do projeto
-
-
-
-A aplicação compila e executa corretamente. Na última verificação, os quatro testes automatizados foram aprovados, sem falhas.
-
-
-
-\## Autor
-
-
-
-Projeto acadêmico desenvolvido para fins de estudo de programação e testes automatizados.
-
-
-
+Este projeto está disponibilizado sob a licença MIT. Consulte o arquivo `LICENSE` para obter os detalhes.
