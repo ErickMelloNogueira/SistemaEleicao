@@ -1,0 +1,14 @@
+C:\Users\vivia\OneDrive\Área de Trabalho\SistemaEleicao\SistemaEleicao.Console\bin\Debug\net10.0\SistemaEleicao.Console.exe
+C:\Users\vivia\OneDrive\Área de Trabalho\SistemaEleicao\SistemaEleicao.Console\bin\Debug\net10.0\SistemaEleicao.Console.deps.json
+C:\Users\vivia\OneDrive\Área de Trabalho\SistemaEleicao\SistemaEleicao.Console\bin\Debug\net10.0\SistemaEleicao.Console.runtimeconfig.json
+C:\Users\vivia\OneDrive\Área de Trabalho\SistemaEleicao\SistemaEleicao.Console\bin\Debug\net10.0\SistemaEleicao.Console.dll
+C:\Users\vivia\OneDrive\Área de Trabalho\SistemaEleicao\SistemaEleicao.Console\bin\Debug\net10.0\SistemaEleicao.Console.pdb
+C:\Users\vivia\OneDrive\Área de Trabalho\SistemaEleicao\SistemaEleicao.Console\obj\Debug\net10.0\SistemaEleicao.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vivia\OneDrive\Área de Trabalho\SistemaEleicao\SistemaEleicao.Console\obj\Debug\net10.0\SistemaEleicao.Console.AssemblyInfoInputs.cache
+C:\Users\vivia\OneDrive\Área de Trabalho\SistemaEleicao\SistemaEleicao.Console\obj\Debug\net10.0\SistemaEleicao.Console.AssemblyInfo.cs
+C:\Users\vivia\OneDrive\Área de Trabalho\SistemaEleicao\SistemaEleicao.Console\obj\Debug\net10.0\SistemaEleicao.Console.csproj.CoreCompileInputs.cache
+C:\Users\vivia\OneDrive\Área de Trabalho\SistemaEleicao\SistemaEleicao.Console\obj\Debug\net10.0\SistemaEleicao.Console.dll
+C:\Users\vivia\OneDrive\Área de Trabalho\SistemaEleicao\SistemaEleicao.Console\obj\Debug\net10.0\refint\SistemaEleicao.Console.dll
+C:\Users\vivia\OneDrive\Área de Trabalho\SistemaEleicao\SistemaEleicao.Console\obj\Debug\net10.0\SistemaEleicao.Console.pdb
+C:\Users\vivia\OneDrive\Área de Trabalho\SistemaEleicao\SistemaEleicao.Console\obj\Debug\net10.0\SistemaEleicao.Console.genruntimeconfig.cache
+C:\Users\vivia\OneDrive\Área de Trabalho\SistemaEleicao\SistemaEleicao.Console\obj\Debug\net10.0\ref\SistemaEleicao.Console.dll
